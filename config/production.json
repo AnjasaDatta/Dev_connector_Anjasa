@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://anjasa123:anjasa123@devconnector-degei.mongodb.net/test?retryWrites=true&w=majority",
+  "secretKey": "mysecrettoken",
+  "clientId": "4500832ac6b517672ba9",
+  "clientSecret": "97f45031078793a2fd2abd48501ad6f0f8413d34"
+}
